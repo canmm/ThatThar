@@ -94,7 +94,7 @@ html {
 }
 
 body {
-	font-family: 'Open Sans', Helvetica, sans-serif;
+	font-family: 'Padauk', sans-serif;
 	font-size: .875rem;
 	font-weight: normal;
 	line-height: 1.75rem;
@@ -110,7 +110,7 @@ h6, .h6 {
 	position: relative;
 	margin-top: 0;
 	margin-bottom: 0;
-	font-family: 'Montserrat', Helvetica, sans-serif;
+	font-family: 'Padauk', sans-serif;
 	color: inherit;
 }
 
@@ -488,7 +488,7 @@ img.logo-dark {
 
 .site-nav a {
 	display: block;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Padauk', sans-serif;
 	font-size: 0.875rem;
 	line-height: 1.3;
 	color: #252729;
